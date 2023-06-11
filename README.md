@@ -1,6 +1,4 @@
-# React-Native Job Finder App
-
-## 🚀 Using Expo Router
+# 🚀 React-Native Job Finder App Using Expo
 
 ## 🚀 With JSearch RapidAPI 
 
