@@ -1,6 +1,6 @@
 # 🚀 React-Native Job Finder App Using Expo
 
-## 🚀 With JSearch RapidAPI 
+## With JSearch RapidAPI 
 
 This App Covers These Basic Functionalities : 
 <li>Custom Hook For Fetching Data</li>
